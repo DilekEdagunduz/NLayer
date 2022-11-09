@@ -12,7 +12,7 @@ using NLayer.Repository;
 namespace NLayer.Repository.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20221031141044_initial")]
+    [Migration("20221102083938_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -106,7 +106,7 @@ namespace NLayer.Repository.Migrations
                         {
                             Id = 1,
                             CategoryId = 1,
-                            CreatedDate = new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9017),
+                            CreatedDate = new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8744),
                             Name = "Kalem 1",
                             Price = 20m,
                             Stock = 10
@@ -115,7 +115,7 @@ namespace NLayer.Repository.Migrations
                         {
                             Id = 2,
                             CategoryId = 2,
-                            CreatedDate = new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9027),
+                            CreatedDate = new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8754),
                             Name = "Kalem 2",
                             Price = 30m,
                             Stock = 20
@@ -124,7 +124,7 @@ namespace NLayer.Repository.Migrations
                         {
                             Id = 3,
                             CategoryId = 3,
-                            CreatedDate = new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9029),
+                            CreatedDate = new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8755),
                             Name = "Kitap 1",
                             Price = 40m,
                             Stock = 22
@@ -133,7 +133,7 @@ namespace NLayer.Repository.Migrations
                         {
                             Id = 4,
                             CategoryId = 4,
-                            CreatedDate = new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9031),
+                            CreatedDate = new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8756),
                             Name = "Kitap 2",
                             Price = 30m,
                             Stock = 20

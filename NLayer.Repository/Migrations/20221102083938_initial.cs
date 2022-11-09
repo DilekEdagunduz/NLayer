@@ -85,22 +85,22 @@ namespace NLayer.Repository.Migrations
             migrationBuilder.InsertData(
                 table: "Product",
                 columns: new[] { "Id", "CategoryId", "CreatedDate", "Name", "Price", "Stock", "UpdatedDate" },
-                values: new object[] { 4, 4, new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9031), "Kitap 2", 30m, 20, null });
+                values: new object[] { 4, 4, new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8756), "Kitap 2", 30m, 20, null });
 
             migrationBuilder.InsertData(
                 table: "Product",
                 columns: new[] { "Id", "CategoryId", "CreatedDate", "Name", "Price", "Stock", "UpdatedDate" },
-                values: new object[] { 1, 1, new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9017), "Kalem 1", 20m, 10, null });
+                values: new object[] { 1, 1, new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8744), "Kalem 1", 20m, 10, null });
 
             migrationBuilder.InsertData(
                 table: "Product",
                 columns: new[] { "Id", "CategoryId", "CreatedDate", "Name", "Price", "Stock", "UpdatedDate" },
-                values: new object[] { 2, 2, new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9027), "Kalem 2", 30m, 20, null });
+                values: new object[] { 2, 2, new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8754), "Kalem 2", 30m, 20, null });
 
             migrationBuilder.InsertData(
                 table: "Product",
                 columns: new[] { "Id", "CategoryId", "CreatedDate", "Name", "Price", "Stock", "UpdatedDate" },
-                values: new object[] { 3, 3, new DateTime(2022, 10, 31, 17, 10, 44, 585, DateTimeKind.Local).AddTicks(9029), "Kitap 1", 40m, 22, null });
+                values: new object[] { 3, 3, new DateTime(2022, 11, 2, 11, 39, 38, 660, DateTimeKind.Local).AddTicks(8755), "Kitap 1", 40m, 22, null });
 
             migrationBuilder.InsertData(
                 table: "ProductFeature",

@@ -40,7 +40,7 @@ namespace NLayer.Repository.Repositories
             _dbSet.Remove(entity); // Burada async gerek yok çünkü yüklü bir işlem yapmayacağım
         }
 
-        public IQueryable<T> GetAll(Expression<Func<T, bool>> expression)
+        public IQueryable<T> GetAll()
         {
             return _dbSet.AsNoTracking().AsQueryable(); // Veri çekerken memeory'e eklenmesin diye AsNoTracking ekledim
         }
