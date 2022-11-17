@@ -10,3 +10,15 @@ C:\Users\dilek\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLaye
 C:\Users\dilek\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
 C:\Users\dilek\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
 C:\Users\dilek\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\dilek\OneDrive\Masaüstü\problem çözme\NLayer\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll

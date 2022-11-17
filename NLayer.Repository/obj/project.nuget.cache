@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tE3r/9l7R3h8UHJnhViN7Qbch6JkvD8u26/D1OglxLO9OE5kBUemt0qh4idUXHyG8VcLH4/o67zpsfzgVTZzdA==",
+  "dgSpecHash": "aNWRjFDwQmvHhnrDclGO6FXf9/hwW4FVMsL4DmngnMmr6EdqDRS7nc+685HDpEPr3ZtZmu2ypuLbTfJq23VdtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dilek\\source\\repos\\NLayerUdemyApp\\NLayer.Repository\\NLayer.Repository.csproj",
+  "projectFilePath": "C:\\Users\\dilek\\OneDrive\\Masaüstü\\problem çözme\\NLayer\\NLayer.Repository\\NLayer.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dilek\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dilek\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

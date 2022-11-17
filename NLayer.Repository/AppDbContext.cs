@@ -17,7 +17,7 @@ namespace NLayer.Repository
         }
         public DbSet<Category> Categories{ get; set; }
         public DbSet<Product> Products { get; set; }
-        public DbSet<Product> ProductFeatures { get; set; }
+        public DbSet<ProductFeature> ProductFeatures { get; set; }
 
         //Entity için ayarlama yapmak için migration esnasında override yapmamız lazım
         protected override void OnModelCreating(ModelBuilder modelBuilder)

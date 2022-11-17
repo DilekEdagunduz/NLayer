@@ -47,17 +47,8 @@ namespace NLayer.Repository.Seeds
                 Stock = 22,
                 CreatedDate = DateTime.Now,
 
-            },
-            new Product
-            {
-                Id = 4,
-                CategoryId = 4,
-                Name = "Kitap 2",
-                Price = 30,
-                Stock = 20,
-                CreatedDate = DateTime.Now,
-
             });
+           
 
         }
     }
